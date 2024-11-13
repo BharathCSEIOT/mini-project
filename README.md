@@ -1,2 +1,3 @@
 # mini-project
-Developing a hospital-based solution that streamlines OPD operations
+City-Wide Epidemic Prediction and Hospital Bed
+Management System Using Machine Learning
